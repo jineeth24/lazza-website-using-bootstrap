@@ -1,0 +1,23 @@
+.col-md-4 img{
+
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.about{
+    background-color: black;
+    color: #be9509;
+}
+nav .navbar{
+    background-color: black;
+}
+#mynavbar{
+    background-color: black;
+}
+.social img{
+    width: 30px;
+    height: 30px;
+
+}
+
